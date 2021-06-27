@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "addon_name": "Extra Patty",
+        "price": 50,
+        "description": "thicc and tasty"
+    },
+    {
+        "id": 2,
+        "addon_name": "Extra Cheese",
+        "price": 20,
+        "description": "hmm cheesy"
+    },
+    {
+        "id": 3,
+        "addon_name": "Extra Sauce",
+        "price": 20,
+        "description": "mayonnaise"
+    }
+]
